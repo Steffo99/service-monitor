@@ -1,0 +1,32 @@
+{
+  "stdout": true,
+  "log": {
+    "filename": "aliveHosts.log"
+  },
+  "telegram": {
+    "token": "375232708:AAGthX2LkCzR26Q01t-Jtc8pP79KYP2QqqI",
+    "channel_id": -1001128933395
+  },
+  "hosts": {
+    "Caronte": {
+      "address": "caronte.fermi.mo.it",
+      "interval": 5,
+      "services": {
+        "HTTP": 80,
+        "HTTPS": 443
+      }
+    },
+    "Steffo": {
+      "address": "royal.steffo.eu",
+      "interval": 5,
+      "services": {
+        "SSH": 22,
+        "HTTP": 80,
+        "HTTPS": 443,
+        "Postgres": 5432,
+        "Minecraft": 25565,
+        "Source DS": 27015
+      }
+    }
+  }
+}

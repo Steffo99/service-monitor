@@ -1,0 +1,32 @@
+2017-10-19 10:20:31 ✅ Logging started.
+2017-10-19 10:20:31 HTTPS on Caronte (caronte.fermi.mo.it:443) is 🔵 up.
+2017-10-19 10:20:31 HTTP on Caronte (caronte.fermi.mo.it:80) is 🔵 up.
+2017-10-19 10:20:31 Postgres on Steffo (royal.steffo.eu:5432) is 🔵 up.
+2017-10-19 10:20:31 HTTP on Steffo (royal.steffo.eu:80) is 🔵 up.
+2017-10-19 10:20:31 HTTPS on Steffo (royal.steffo.eu:443) is 🔵 up.
+2017-10-19 10:20:31 Minecraft on Steffo (royal.steffo.eu:25565) is 🔵 up.
+2017-10-19 10:20:31 SSH on Steffo (royal.steffo.eu:22) is 🔵 up.
+2017-10-19 10:20:32 Source DS on Steffo (royal.steffo.eu:27015) is 🔴 down.
+2017-10-19 10:22:27 🛑 Logging stopped.
+2017-10-19 10:22:48 ✅ Logging started.
+2017-10-19 10:22:48 HTTPS on Caronte (caronte.fermi.mo.it:443) is 🔵 up.
+2017-10-19 10:22:48 SSH on Steffo (royal.steffo.eu:22) is 🔵 up.
+2017-10-19 10:22:48 Postgres on Steffo (royal.steffo.eu:5432) is 🔵 up.
+2017-10-19 10:22:48 Minecraft on Steffo (royal.steffo.eu:25565) is 🔵 up.
+2017-10-19 10:22:48 HTTP on Steffo (royal.steffo.eu:80) is 🔵 up.
+2017-10-19 10:22:48 HTTPS on Steffo (royal.steffo.eu:443) is 🔵 up.
+2017-10-19 10:22:48 HTTP on Caronte (caronte.fermi.mo.it:80) is 🔵 up.
+2017-10-19 10:22:49 Source DS on Steffo (royal.steffo.eu:27015) is 🔴 down.
+2017-10-19 10:23:24 ✅ Logging started.
+2017-10-19 10:23:24 HTTPS on Caronte (caronte.fermi.mo.it:443) is 🔵 up.
+2017-10-19 10:23:24 HTTP on Caronte (caronte.fermi.mo.it:80) is 🔵 up.
+2017-10-19 10:23:24 HTTPS on Steffo (royal.steffo.eu:443) is 🔵 up.
+2017-10-19 10:23:24 Postgres on Steffo (royal.steffo.eu:5432) is 🔵 up.
+2017-10-19 10:23:24 SSH on Steffo (royal.steffo.eu:22) is 🔵 up.
+2017-10-19 10:23:24 Minecraft on Steffo (royal.steffo.eu:25565) is 🔵 up.
+2017-10-19 10:23:24 HTTP on Steffo (royal.steffo.eu:80) is 🔵 up.
+2017-10-19 10:23:25 Source DS on Steffo (royal.steffo.eu:27015) is 🔴 down.
+2017-10-19 10:23:38 HTTP on Steffo (royal.steffo.eu:80) went 🔴 down.
+2017-10-19 10:23:38 HTTPS on Steffo (royal.steffo.eu:443) went 🔴 down.
+2017-10-19 10:23:41 HTTPS on Steffo (royal.steffo.eu:443) went 🔵 up.
+2017-10-19 10:23:41 HTTP on Steffo (royal.steffo.eu:80) went 🔵 up.
